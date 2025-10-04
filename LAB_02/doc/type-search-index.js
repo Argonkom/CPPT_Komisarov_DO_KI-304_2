@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI_304.Komisarov.LAB_02","l":"Leaf"},{"p":"KI_304.Komisarov.LAB_02","l":"Plant"},{"p":"KI_304.Komisarov.LAB_02","l":"PlantTest"},{"p":"KI_304.Komisarov.LAB_02","l":"Root"},{"p":"KI_304.Komisarov.LAB_02","l":"Stem"}];updateSearchResults();
